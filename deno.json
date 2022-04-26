@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "dev": "fresh manifest && deno run --allow-net --allow-read --allow-env --allow-run --watch=static/ --no-check main.ts"
+  }
+}
